@@ -1,0 +1,14 @@
+{
+  "name": "diheba",
+  "version": "1.0.0",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs"
+  },
+  "author": "xuhailong",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "fast-glob": "^3.2.12",
+    "vitepress": "^1.0.0-beta.3"
+  }
+}
