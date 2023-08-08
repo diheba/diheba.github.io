@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: 记事本
+  name: 锈色笔头
   text: 好记性不如烂笔头
   tagline: 眼里过千遍，不如手里过一遍
   image:
     src: /hero.png
-    alt: 记事本
+    alt: 锈色笔头
   actions:
     - theme: brand
       text: Gitee
