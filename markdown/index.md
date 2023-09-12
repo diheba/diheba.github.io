@@ -1,12 +1,13 @@
 ---
 layout: home
+title: 首页
 
 hero:
   name: 锈色笔头
-  text: 好记性不如烂笔头
-  tagline: 眼里过千遍，不如手里过一遍
+  text: 个人技术知识库
+  tagline: 眼里过千遍，不如手里过一遍 —— 贵在实践
   image:
-    src: /hero.png
+    src: /banner.png
     alt: 锈色笔头
   actions:
     - theme: brand
